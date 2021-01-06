@@ -5,7 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
-
+*zip
+/images/
+/images_sampling/
 /data/
 # Distribution / packaging
 .Python
